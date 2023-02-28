@@ -33,7 +33,7 @@ const Home = () => {
 
 	return (
 		<div>
-			<h1>Home</h1>
+			<h1>Alba,s Blog</h1>
 			<div className="row">
 				{/* #21 This loop doesn't run yet because the posts from local storage have not been loaded into state */}
 				{/* #27 The state was updated from #25 (and #26) so we need to rerun this loop. Loop over every item in 
